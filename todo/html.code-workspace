@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../java"
+		},
+		{
+			"path": "../../DAA LAB"
+		},
+		{
+			"path": "../../daa1"
+		},
+		{
+			"path": "../../CN LAB"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html"
+	}
+}
